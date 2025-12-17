@@ -1,3 +1,6 @@
+[|NOTE]
+This is a fork to apply the correction of paragraph leading [#700] (https://github.com/opensagres/xdocreport/issues/700)) until the XDocreport incorporate it on a next version.
+
 XDocReport
 ==========
 
